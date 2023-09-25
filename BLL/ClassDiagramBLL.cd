@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL.FunctionBLL.AllCrosswordBLL" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAIAAAAAAAAABAACAAgoAAAAACIA=</HashCode>
+      <FileName>FunctionBLL\AllCrosswordBLL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BLL.FunctionBLL.Create">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhGgIAAAAEFAgAICAAAAQAACACUBAA0QCAAAIEQI=</HashCode>
+      <FileName>FunctionBLL\Create.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.FunctionBLL.IAndJ">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAA=</HashCode>
+      <FileName>FunctionBLL\IAndJ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.FunctionBLL.Square">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACGAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>FunctionBLL\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.FunctionBLL.staticClass">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAEAAAAAgAAAAAAAAAEAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>FunctionBLL\StaticClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.FunctionBLL.userBLL" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAABAAAAAAAAAACAAgIAAAAAAAA=</HashCode>
+      <FileName>FunctionBLL\userBLL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BLL.FunctionBLL.UserCrosswordBLL" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAgIAAAAAAQA=</HashCode>
+      <FileName>FunctionBLL\UserCrosswordBLL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BLL.FunctionBLL.WordAndDefinitionBLL" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAABAAAAAAAAAgAAAAAACAAggAAQAAAAA=</HashCode>
+      <FileName>FunctionBLL\WordAndDefinitionBLL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="BLL.InterfaceBLL.IAllCrosswordBLL">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAIAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>InterfaceBLL\IAllCrosswordBLL.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BLL.InterfaceBLL.IcrosswordUserBLL">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>InterfaceBLL\IcrosswordUserBLL.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BLL.InterfaceBLL.IuserBLL">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAABAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>InterfaceBLL\IuserBLL.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BLL.InterfaceBLL.IwordAndDefinitionBLL">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAABAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>InterfaceBLL\IwordAndDefinitionBLL.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BLL.FunctionBLL.eDirection">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAEAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FunctionBLL\Create.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
